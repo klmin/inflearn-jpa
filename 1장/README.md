@@ -17,3 +17,5 @@ db마다 다른기능
 가변문자 : myslq - varchar, oracle - varchar2
 
 ![image](https://github.com/user-attachments/assets/3a42ce20-660b-45cc-9d77-cc2f32851bd1)
+![image](https://github.com/user-attachments/assets/a088b66b-57cc-44a5-bce7-14e1811d1ab8)
+
