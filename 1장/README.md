@@ -22,6 +22,7 @@ db마다 다른기능
 ![image](https://github.com/user-attachments/assets/a088b66b-57cc-44a5-bce7-14e1811d1ab8)
 ![image](https://github.com/user-attachments/assets/19c1d6f9-d206-4f15-a95f-b3f9af0acf27)
 ![image](https://github.com/user-attachments/assets/cea2ef14-d65b-4d0f-9157-24114ca0dec0)
+![image](https://github.com/user-attachments/assets/aa96525e-46b7-4caa-9b7a-d969322fea96)
 
 
 JPQL - 엔티티 객체 대상으로 쿼리 실행. DB 테이블 기반 실행이 아님. DB에 종속되지 않아야 하기 때문
