@@ -1,3 +1,5 @@
+섹션3 - JPA 시작하기
+
 JPA 순서
 repository -> jpa -> jdbc api -> database
 
@@ -18,4 +20,5 @@ db마다 다른기능
 
 ![image](https://github.com/user-attachments/assets/3a42ce20-660b-45cc-9d77-cc2f32851bd1)
 ![image](https://github.com/user-attachments/assets/a088b66b-57cc-44a5-bce7-14e1811d1ab8)
+![image](https://github.com/user-attachments/assets/19c1d6f9-d206-4f15-a95f-b3f9af0acf27)
 
